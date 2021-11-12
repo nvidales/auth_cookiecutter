@@ -1,0 +1,13 @@
+.account-page {
+    .profile-photo-container {
+        width: 125px;
+        height: 125px;
+        overflow: hidden;
+        border-radius: 100%;
+
+        img {
+            position: relative;
+            width: 100%;
+        }
+    }
+}
